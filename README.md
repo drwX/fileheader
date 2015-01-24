@@ -7,5 +7,5 @@ dep: Nerd Commenter plugin
 Usage:    
  let g:fileheader_author='River D.'    
  let g:fileheader_email='river.drw@gmail.com'    
- nnoremap <F4> :FileHeaderDetect<cr>    
+ nnoremap  \<F4\>  :FileHeaderDetect<cr>    
  
