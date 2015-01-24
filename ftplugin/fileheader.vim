@@ -170,4 +170,4 @@ function s:HeaderDet()
     endif
     call s:AddHeader()
 endfunction
-command! -nargs=0 AuthorInfoDetect :call s:HeaderDet()
+command! -nargs=0 FileHeaderDetect :call s:HeaderDet()
